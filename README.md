@@ -21,7 +21,7 @@ Windows	Slow PCs, Windows updates, startup issues, app crashes, drivers	guides/w
 
 Printer	Offline printers, stuck print jobs, slow printing, scanner issues	guides/printer-troubleshooting.md
 
-Commands	Useful CMD and PowerShell commands	guides/common-commands.md
+Commands	Useful CMD and PowerShell commands
 
 ## How I Troubleshoot 
 
